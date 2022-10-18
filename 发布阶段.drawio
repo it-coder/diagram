@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-18T06:18:07.924Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="vkqStREz1xHoCKBg8__M" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-18T06:27:30.946Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="FOHZthNV9x4v5EDDonMV" version="20.4.1" type="github">
   <diagram id="Nbi2OOFG4A7icGLgDpQb" name="第 1 页">
     <mxGraphModel dx="2253" dy="805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -90,8 +90,23 @@
         <mxCell id="OawIMf_CP--zUOg47wnV-12" value="输入" style="swimlane;startSize=23;fillColor=#92D050;" vertex="1" parent="kk27pRFW-uQP8ShshRhL-3">
           <mxGeometry x="20" width="200" height="820" as="geometry" />
         </mxCell>
-        <mxCell id="OawIMf_CP--zUOg47wnV-246" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;shadow=1;sketch=0;fontSize=12;fontColor=#FFC000;fillColor=#F5F5F5;" vertex="1" parent="OawIMf_CP--zUOg47wnV-12">
+        <mxCell id="OawIMf_CP--zUOg47wnV-246" value="&lt;font color=&quot;#333333&quot;&gt;数据库初始化/升级脚本&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;shadow=1;sketch=0;fontSize=12;fontColor=#FFC000;fillColor=#F5F5F5;" vertex="1" parent="OawIMf_CP--zUOg47wnV-12">
           <mxGeometry x="40" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OawIMf_CP--zUOg47wnV-247" value="&lt;font color=&quot;#333333&quot;&gt;安装部署说明书&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;shadow=1;sketch=0;fontSize=12;fontColor=#FFC000;fillColor=#F5F5F5;" vertex="1" parent="OawIMf_CP--zUOg47wnV-12">
+          <mxGeometry x="40" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OawIMf_CP--zUOg47wnV-248" value="&lt;font color=&quot;#333333&quot;&gt;网络拓朴图&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;shadow=1;sketch=0;fontSize=12;fontColor=#FFC000;fillColor=#F5F5F5;" vertex="1" parent="OawIMf_CP--zUOg47wnV-12">
+          <mxGeometry x="40" y="345" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OawIMf_CP--zUOg47wnV-249" value="&lt;font color=&quot;#333333&quot;&gt;二进制可执行包&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;shadow=1;sketch=0;fontSize=12;fontColor=#FFC000;fillColor=#F5F5F5;" vertex="1" parent="OawIMf_CP--zUOg47wnV-12">
+          <mxGeometry x="40" y="450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OawIMf_CP--zUOg47wnV-250" value="&lt;font color=&quot;#333333&quot;&gt;性能测试报告&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;shadow=1;sketch=0;fontSize=12;fontColor=#FFC000;fillColor=#F5F5F5;" vertex="1" parent="OawIMf_CP--zUOg47wnV-12">
+          <mxGeometry x="40" y="550" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OawIMf_CP--zUOg47wnV-251" value="&lt;font color=&quot;#333333&quot;&gt;遗留问题表(含解决计划)&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;shadow=1;sketch=0;fontSize=12;fontColor=#FFC000;fillColor=#F5F5F5;" vertex="1" parent="OawIMf_CP--zUOg47wnV-12">
+          <mxGeometry x="40" y="660" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OawIMf_CP--zUOg47wnV-13" value="输出" style="swimlane;fillColor=#92D050;" vertex="1" parent="kk27pRFW-uQP8ShshRhL-3">
           <mxGeometry x="1950" width="200" height="820" as="geometry" />
@@ -429,12 +444,15 @@
           <mxGeometry x="670" width="200" height="770" as="geometry" />
         </mxCell>
         <mxCell id="OawIMf_CP--zUOg47wnV-155" value="" style="swimlane;startSize=0;fillColor=#92D050;" vertex="1" parent="OawIMf_CP--zUOg47wnV-136">
-          <mxGeometry x="20" width="200" height="210" as="geometry" />
+          <mxGeometry x="20" width="200" height="770" as="geometry" />
         </mxCell>
         <mxCell id="OawIMf_CP--zUOg47wnV-156" value="" style="swimlane;startSize=0;" vertex="1" parent="OawIMf_CP--zUOg47wnV-136">
           <mxGeometry x="1950" width="200" height="770" as="geometry">
             <mxRectangle x="1960" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="OawIMf_CP--zUOg47wnV-252" value="&lt;font color=&quot;#333333&quot;&gt;系统部署情况文档&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;shadow=1;sketch=0;fontSize=12;fontColor=#FFC000;fillColor=#F5F5F5;" vertex="1" parent="OawIMf_CP--zUOg47wnV-156">
+          <mxGeometry x="40" y="200" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OawIMf_CP--zUOg47wnV-157" value="" style="swimlane;startSize=0;fillColor=#92D050;" vertex="1" parent="OawIMf_CP--zUOg47wnV-136">
           <mxGeometry x="220" width="250" height="770" as="geometry" />
