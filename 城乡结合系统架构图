@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-10T11:25:22.740Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.3" etag="K_ziBgKRBj9xD5ps49Eb" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-10T11:33:59.242Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.3" etag="Glg6BfswUGikNytwZxak" type="github">
   <diagram id="_iJxU8-UER99pzuyAKbZ" name="第 1 页">
     <mxGraphModel dx="794" dy="1662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -106,13 +106,13 @@
         <mxCell id="4Vt2c4nCp5kGOe51pdn1-34" value="浙里办/浙政钉" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFE6CC;" vertex="1" parent="1">
           <mxGeometry x="530" y="-450" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4Vt2c4nCp5kGOe51pdn1-37" value="门禁设备" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3399FF;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="4Vt2c4nCp5kGOe51pdn1-37" value="停车设备" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3399FF;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="280" y="230" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4Vt2c4nCp5kGOe51pdn1-38" value="门禁设备" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3399FF;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="4Vt2c4nCp5kGOe51pdn1-38" value="视频设备" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3399FF;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="410" y="230" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4Vt2c4nCp5kGOe51pdn1-39" value="门禁设备" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3399FF;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="4Vt2c4nCp5kGOe51pdn1-39" value="道闸设备" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3399FF;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="540" y="230" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4Vt2c4nCp5kGOe51pdn1-40" value="..." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3399FF;fontColor=#FFFFFF;" vertex="1" parent="1">
