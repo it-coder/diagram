@@ -1,9 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2023-05-19T03:34:16.585Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" version="21.2.9" etag="cuYY8lIqpDW-o2fCowq4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-19T04:35:02.428Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="VNhWHsmoG0hmyvC0TZGN" version="21.2.9" type="github">
   <diagram name="第 1 页" id="3hvVV8P2HIzd_Acsri2F">
-    <mxGraphModel>
+    <mxGraphModel dx="1034" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3IEdve0CTom6uvF9wAUz-13" value="二端" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="120" y="120" width="520" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="3IEdve0CTom6uvF9wAUz-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="200" width="470" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3IEdve0CTom6uvF9wAUz-8" value="未来e家应用超市" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="120" y="300" width="520" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="3IEdve0CTom6uvF9wAUz-1" value="未来e家数字化底座" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="420" width="520" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3IEdve0CTom6uvF9wAUz-2" value="未来e家应用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3IEdve0CTom6uvF9wAUz-3" value="陈道门应用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3IEdve0CTom6uvF9wAUz-4" value="个性化应用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3IEdve0CTom6uvF9wAUz-5" value="未来e家端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="210" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3IEdve0CTom6uvF9wAUz-6" value="陈道门端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="210" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3IEdve0CTom6uvF9wAUz-7" value="..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="210" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3IEdve0CTom6uvF9wAUz-10" value="浙里办" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3IEdve0CTom6uvF9wAUz-11" value="浙政钉" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3IEdve0CTom6uvF9wAUz-12" value="微信小程序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="140" width="130" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
