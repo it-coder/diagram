@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-15T10:26:28.255Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="XwbbJpMmUK7EF-VH-W-b" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-16T00:50:21.074Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="CNlaTOcrUzaOzuLMb7TI" version="21.3.7" type="github">
   <diagram id="Nbi2OOFG4A7icGLgDpQb" name="第 1 页">
-    <mxGraphModel dx="2261" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,7 +27,7 @@
         <mxCell id="RGuSKZrV8s-vLj_V1h9Q-18" value="商务报价清单" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=16;fillColor=#F5F5F5;fontColor=#000000;shadow=1;sketch=0;" parent="OawIMf_CP--zUOg47wnV-12" vertex="1">
           <mxGeometry x="68" y="1177" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="OawIMf_CP--zUOg47wnV-13" value=",。。。。。。" style="swimlane;fillColor=#92D050;fontSize=14;startSize=30;" parent="kk27pRFW-uQP8ShshRhL-3" vertex="1">
+        <mxCell id="OawIMf_CP--zUOg47wnV-13" value="技术经理" style="swimlane;fillColor=#92D050;fontSize=14;startSize=30;" parent="kk27pRFW-uQP8ShshRhL-3" vertex="1">
           <mxGeometry x="840" width="270" height="1440" as="geometry" />
         </mxCell>
         <mxCell id="U5idlx-Z1bSeRHIKyn_E-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="OawIMf_CP--zUOg47wnV-13" source="fmweD9lnvznt-FNgvz4t-3" target="U5idlx-Z1bSeRHIKyn_E-5">
@@ -61,6 +61,11 @@
         </mxCell>
         <mxCell id="U5idlx-Z1bSeRHIKyn_E-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="OawIMf_CP--zUOg47wnV-13" source="U5idlx-Z1bSeRHIKyn_E-5" target="U5idlx-Z1bSeRHIKyn_E-7">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U5idlx-Z1bSeRHIKyn_E-10" value="不通过" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="U5idlx-Z1bSeRHIKyn_E-8">
+          <mxGeometry x="-0.2333" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="U5idlx-Z1bSeRHIKyn_E-5" value="负责人复核" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;fillColor=#F5F5F5;fontColor=#000000;shadow=1;sketch=0;" vertex="1" parent="OawIMf_CP--zUOg47wnV-13">
           <mxGeometry x="80" y="1197" width="80" height="80" as="geometry" />
